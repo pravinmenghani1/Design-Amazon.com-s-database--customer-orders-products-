@@ -24,7 +24,7 @@ Now for a system that handles such high traffic, especially during huge sales, m
 
 Now that we have clear requirements, let’s start building the system. To keep things simple we will divide the system into two flows - Home/Search view and Purchase/Checkout flow.
 
-Home and Search Flow
+**Home and Search Flow**
 
 ![image](https://user-images.githubusercontent.com/34215341/180778853-9a84164f-fe5f-4bf1-9c5c-db358b1e89f8.png)
 
@@ -50,7 +50,7 @@ Now, remember we mentioned Serviceability + TAT service, which identifies whethe
 
 Now we have discussed how users can search products, how supplier inventory is synced with our system, how we generate recommendations, even how we find out ETA after the order has been placed. But HOW will the order be placed?
 
-Purchase and Checkout flow
+**Purchase and Checkout flow**
 ![image](https://user-images.githubusercontent.com/34215341/180779000-406a68da-e77b-45ed-b194-b3a97ae986ee.png)
 
 
