@@ -16,7 +16,8 @@ High availability
 High consistency
 System Architecture
 
-![image](https://user-images.githubusercontent.com/34215341/180778533-31977150-0e14-4ae0-a54f-b5ba76a9c4a8.png)
+![image](https://user-images.githubusercontent.com/34215341/180779310-155ada8d-7ea0-40e5-a8fe-4d60df07419f.png)
+
 
 
 Now for a system that handles such high traffic, especially during huge sales, meeting all three non-functional requirements might be difficult. But not everything needs to be always available, have low latency, and be extremely consistent. For example, payment and inventory systems should be highly consistent even at the cost of availability, Search needs to be highly available even if it is slightly inconsistent. Most user-facing components should have a low enough latency.
